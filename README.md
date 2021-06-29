@@ -13,4 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
+
+[![Terrance's GitHub stats](https://github-readme-stats.vercel.app/api?username=yhterrance)](https://github.com/yhterrance/github-readme-stats)
+
+- 🌱 I’m currently learning Cloud Computing on AWS!!
+- 😄 Pronouns: Reindeer
+- 📫 How to reach me: [Facebook](https://www.facebook.com/TerranceDingbading) 
