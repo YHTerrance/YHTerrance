@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 
 -->
 
-[![Terrance's GitHub stats](https://github-readme-stats.vercel.app/api?username=yhterrance&show_icons=true&THEME=radical)](https://github.com/yhterrance/github-readme-stats)
+[![Terrance's GitHub stats](https://github-readme-stats.vercel.app/api?username=yhterrance&show_icons=true&theme=tokyonight)](https://github.com/yhterrance/github-readme-stats)
 
 - 🌱 I’m currently learning Cloud Computing on AWS!!
 - 😄 Pronouns: Reindeer
-- 📫 How to reach me: [Facebook](https://www.facebook.com/TerranceDingbading) 
+- 📫 How to reach me: [Facebook](https://www.facebook.com/TerranceDingbading), [LinkedIn](https://www.linkedin.com/in/terrance-yu-hao-chen-848ba7183/)
