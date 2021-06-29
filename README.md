@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 -->
 
-[![Terrance's GitHub stats](https://github-readme-stats.vercel.app/api?username=yhterrance)](https://github.com/yhterrance/github-readme-stats)
+[![Terrance's GitHub stats](https://github-readme-stats.vercel.app/api?username=yhterrance&show_icons=true&THEME=radical)](https://github.com/yhterrance/github-readme-stats)
 
 - 🌱 I’m currently learning Cloud Computing on AWS!!
 - 😄 Pronouns: Reindeer
