@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 [![Terrance's GitHub stats](https://github-readme-stats.vercel.app/api?username=yhterrance&show_icons=true&theme=tokyonight)](https://github.com/yhterrance/github-readme-stats)
 
-- 🌱 I’m currently learning Cloud Computing on AWS!!
+- 🌱 I’m currently learning Solidity Development with Foundry!!
+- 💪🏻 Excited about the future of DeFi protocols
 - 😄 Pronouns: Reindeer
 - 📫 How to reach me: [Facebook](https://www.facebook.com/TerranceDingbading), [LinkedIn](https://www.linkedin.com/in/terrance-yu-hao-chen-848ba7183/)
