@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 [![Terrance's GitHub stats](https://github-readme-stats.vercel.app/api?username=yhterrance&show_icons=true&theme=tokyonight)](https://github.com/yhterrance/github-readme-stats)
 
-- 🌱 Currently working on Real Yields provided by Real World Assets in DeFi.
+[![CodeTime badge](https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D18964%26project%3D%26in%3D0)](https://codetime.dev)
+
+- 🌱 Learning about Software and Finance.
 - 😄 Pronouns: Reindeer
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/terrance-yu-hao/)
