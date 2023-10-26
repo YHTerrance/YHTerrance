@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=YHTerrance&color=green)
 
-[![CodeTime badge](https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D18964%26project%3D%26in%3D0)](https://codetime.dev)
+[![wakatime](https://wakatime.com/badge/user/2c0e73f1-cf66-46d1-845a-fc6117decab3.svg)](https://wakatime.com/@2c0e73f1-cf66-46d1-845a-fc6117decab3)
 
 - 🌱 Learning about Software and Finance.
 - 😄 Pronouns: Reindeer
