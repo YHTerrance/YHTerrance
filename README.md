@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 - 🌱 Learning about Software and Finance.
 - 😄 Pronouns: Reindeer
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/terrance-yu-hao/)
+- 📫 Telegram: @yhterrance 
