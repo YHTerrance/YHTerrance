@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 🌱 Master's of Computer Science student at CMU
 
-Check my personal website [yhterrance.me](https://yhterrance.me)
+Check out my personal website [yhterrance.me](https://yhterrance.me)
