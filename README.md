@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **YHTerrance/YHTerrance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,6 +16,8 @@ Here are some ideas to get you started:
 
 [![wakatime](https://wakatime.com/badge/user/2c0e73f1-cf66-46d1-845a-fc6117decab3.svg)](https://wakatime.com/@2c0e73f1-cf66-46d1-845a-fc6117decab3)
 
-🌱 Master's of Computer Science student at CMU
+Grew up in Taiwan 🇹🇼
+
+Coding and hustling at CMU 👨🏻‍💻
 
 Check out my personal website [yhterrance.me](https://yhterrance.me)
