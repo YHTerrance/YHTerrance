@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 
 -->
 
-
-![](https://komarev.com/ghpvc/?username=YHTerrance&color=green)  [![wakatime](https://wakatime.com/badge/user/2c0e73f1-cf66-46d1-845a-fc6117decab3.svg)](https://wakatime.com/@2c0e73f1-cf66-46d1-845a-fc6117decab3)
+[![wakatime](https://wakatime.com/badge/user/2c0e73f1-cf66-46d1-845a-fc6117decab3.svg)](https://wakatime.com/@2c0e73f1-cf66-46d1-845a-fc6117decab3)
 
 🌱 Master's of Computer Science student at CMU
 
