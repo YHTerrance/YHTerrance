@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 
 Grew up in Taiwan 🇹🇼
 
-Coding and hustling at CMU 👨🏻‍💻
+Spent a year at CMU 🇺🇸
+
+Soon to be bay area resident ☀️
 
 Check out my personal website [yhterrance.me](https://yhterrance.me)
