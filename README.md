@@ -20,4 +20,6 @@ Spent a year at CMU 🇺🇸
 
 Soon to be bay area resident ☀️
 
+Coding is cool, I guess.
+
 Check out my personal website [yhterrance.me](https://yhterrance.me)
