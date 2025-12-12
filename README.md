@@ -16,10 +16,8 @@ Here are some ideas to get you started:
 
 Grew up in Taiwan 🇹🇼
 
-Spent a year at CMU 🇺🇸
+Studied MSCS at CMU in Pittsburgh 🇺🇸 
 
-Soon to be bay area resident ☀️
-
-Coding is cool, I guess.
+Currently in Bay Area ☀️
 
 Check out my personal website [yhterrance.me](https://yhterrance.me)
